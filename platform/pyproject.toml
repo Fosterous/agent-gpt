@@ -47,7 +47,7 @@ pytest-cov = "^4.1.0"
 anyio = "^3.7.0"
 pytest-env = "^0.8.1"
 httpx = "^0.24.1"
-taskiq = { version = "^0.6.0", extras = ["reload"] }
+taskiq = { version = "^0.8.6", extras = ["reload"] }
 
 [tool.isort]
 profile = "black"
